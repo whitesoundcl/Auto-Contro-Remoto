@@ -1,4 +1,36 @@
 # Auto-Contro-Remoto
 Un repositorio de un auto a control remoto operado por un NodeMCU
 
+Si bien quizá no estas interesado en construir uno, quizá puedas aprender algo nuevo
+revisando el código.
+[Imagen]
+[Video]
+
+___
+## ¿Cómo funciona?
+El vehiculo se mueve a base de peticiones http con paso de parámetros.
+por ejemplo si ingresamos a la siguiente url:
+```
+<Direccion ip del nodeMCU>/controlar?motor=160&dir=70
+```
+el motor del vehiculo se moverá a una velocidad de 160 y el servo que controla la
+dirección será puesto en un ángulo de 70.
+
+Como controlar el vehiculo en base a parámetros en una url puede llegar a ser incómodo,
+también creé una página que permite controlar el vehiculo con las teclas direccionales.
+El código javascript mandará peticiones con los parametros correctos utilizando AJAX.
+
+
+
 Actualmente completando
+
+Los materiales que ocupé para la creación de este proyecto fueron:
++ NodeMCU LoLin
++ Pantalla OLED (opcional)
++ 1 servomotor (Direccion)
++ 1 controlador brushed Walkera (Motor)
++ 1 chasís de auto a control remoto.
++ cargador portatíl para teléfono.
++ 2 elevadores de voltaje
++ Un montón de cable
+
