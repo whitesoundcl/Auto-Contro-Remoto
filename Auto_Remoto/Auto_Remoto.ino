@@ -70,7 +70,6 @@ void loop() {
 // Recibe las peticiones html para controlar los servomotores
 void manejarControlar() {
   if (server.arg("dir") != "") {
-    //servoDireccion.write(map(server.arg("dir").toInt(),0, 255, DIR_MIN, DIR_MAX));
     posicionDirTarget = map(server.arg("dir").toInt(), 0, 255, datos.dirServoMax, datos.dirServoMin);
   }
   if (server.arg("motor") != "") {
