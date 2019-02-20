@@ -23,8 +23,6 @@ El código javascript mandará peticiones con los parametros correctos utilizand
 
 
 
-Actualmente completando
-
 Los materiales que ocupé para la creación de este proyecto fueron:
 + NodeMCU LoLin
 + Pantalla OLED (opcional)
@@ -35,3 +33,4 @@ Los materiales que ocupé para la creación de este proyecto fueron:
 + 2 elevadores de voltaje
 + Un montón de cable
 
+Cualquier duda o consulta, estoy siempre disponible.
