@@ -3,7 +3,8 @@ Un repositorio de un auto a control remoto operado por un NodeMCU
 
 Si bien quizá no estas interesado en construir uno, quizá puedas aprender algo nuevo
 revisando el código.
-[Imagen]
+![alt text](https://raw.githubusercontent.com/whitesoundcl/Auto-Contro-Remoto/master/imagenes/imagen1.jpg "El auto en cuestión XD")
+
 [Video]
 
 ___
