@@ -56,9 +56,8 @@ void setup() {
 
   u8x8log.print("Wifi:");
   while (WiFi.status() != WL_CONNECTED)
-  { // Wait for connection
+  {
     delay(100);
-    //u8x8log.print(".");
   }
   u8x8log.println("OK");
   u8x8log.println("Direc. IP:");
