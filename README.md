@@ -6,7 +6,8 @@ revisando el código.
 ![alt text](https://raw.githubusercontent.com/whitesoundcl/Auto-Contro-Remoto/master/imagenes/imagen1.jpg "El auto en cuestión XD")
 
 [Video]
-
+Hay un poco más de información escrita en mi blog
+https://blog.luch-in.cl/2019/02/proyecto-auto-control-remoto-con-nodemcu.html
 ___
 ## ¿Cómo funciona?
 El vehiculo se mueve a base de peticiones http con paso de parámetros.
