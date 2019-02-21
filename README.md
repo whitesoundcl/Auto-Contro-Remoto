@@ -5,7 +5,8 @@ Si bien quizá no estas interesado en construir uno, quizá puedas aprender algo
 revisando el código.
 ![alt text](https://raw.githubusercontent.com/whitesoundcl/Auto-Contro-Remoto/master/imagenes/imagen1.jpg "El auto en cuestión XD")
 
-[Video]
+https://youtu.be/zax9YPE1pcE
+
 Hay un poco más de información escrita en mi blog
 https://blog.luch-in.cl/2019/02/proyecto-auto-control-remoto-con-nodemcu.html
 ___
